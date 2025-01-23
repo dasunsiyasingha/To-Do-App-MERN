@@ -84,12 +84,12 @@ Ensure you have the following installed on your system:
 
    - For the backend:
      ```bash
-     cd backend
+     cd todo-app-backend
      node server.js
      ```
    - For the frontend:
      ```bash
-     cd frontend
+     cd todoapp
      npm start
      ```
 
@@ -102,12 +102,12 @@ Ensure you have the following installed on your system:
 
 ```
 mern-todo-app/
-├── backend/
+├── todo-app-backend/
 │   ├── models/
 │   ├── routes/
 │   ├── server.js
 │   └── .env
-├── frontend/
+├── todoapp/
 │   ├── public/
 │   ├── src/
 │   ├── App.js
